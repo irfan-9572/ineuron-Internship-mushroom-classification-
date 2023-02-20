@@ -1,4 +1,4 @@
-# ineuron-Internship-mushroom-classification-
+# iNeuron-Internship-mushroom-classification-
   This is the name of the project and also indicates that it is a project being done as part of an internship.
 # Objective 🎯
   The objective of this internship project is to develop a machine learning system that can accurately classify mushrooms as **poisonous** or **edible** based on their characteristics.
@@ -7,7 +7,9 @@
 # Dataset 📁
   https://www.kaggle.com/datasets/uciml/mushroom-classification?resource=download 🔗
 # Technology 🤖
-  Machine Learning
+  **Machine Learning**
+
+  This project is a machine learning application that utilizes classical machine learning techniques to predict whether a mushroom is poisonous or edible based on its characteristics.
 # Domain 📚
   **Agriculture.**
 
